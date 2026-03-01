@@ -101,11 +101,11 @@ export default function LandingPage() {
                 <div className="p-6 bg-white rounded-2xl shadow-sm">
                   <ShieldCheck className="mb-4 text-[#051d40]" />
                   <div className="text-3xl font-bold">100%</div>
-                  <div className="text-sm text-gray-500 uppercase tracking-wider">Transparência</div>
+                  <div className="text-sm text-gray-500 uppercase tracking-wider">Clareza</div>
                 </div>
                 <div className="p-6 bg-white rounded-2xl shadow-sm">
                   <Briefcase className="mb-4 text-[#051d40]" />
-                  <div className="text-3xl font-bold">13+</div>
+                  <div className="text-3xl font-bold">2+</div>
                   <div className="text-sm text-gray-500 uppercase tracking-wider">Anos Exp.</div>
                 </div>
               </div>
